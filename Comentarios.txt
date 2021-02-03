@@ -1,0 +1,36 @@
+Video: minuto 26:45
+
+https://www.youtube.com/watch?v=lV7mxivGX_I 
+
+Uso de carpetas:
+
+* Controllers: Crea las funciones que van a interactuar con el usuarios.
+* Libs: Se creara codigo para reutilizar.
+* Middlewares: Crea middlewares de express, funciones a ejecutar cuando se visite una ruta.
+* Models: Especifica los modelos de datos a guardar.
+* Routes: Se crearan las rutas (URL) de la pagina.
+
+Iconos de Fazt:
+Matherial Icons Theme
+
+Thema de color:
+dobri next
+
+----------------
+
+Instalar y configurar mongodb 
+
+https://webtutoriales.com/articulos/instalar-mongodb-en-linux
+
+----------------
+
+Eliminar caprtas en linux
+
+rm -R nombre_carpeta
+
+----------------
+
+Modulos para subir imagenes
+
+multer
+booboy
